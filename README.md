@@ -20,14 +20,14 @@ pip install numpy matplotlib scipy
 
 ## How to Run
 ```bash
-python forest_fire_soc.py
+python code.py
 ```
 This generates all figures in the `figures/` directory.
 
 ## To Compile the LaTeX Report
 ```bash
-pdflatex soc_forest_fire.tex
-pdflatex soc_forest_fire.tex   # run twice for cross-references
+pdflatex 2021ch70455_siddhant sudhakar dhirde_individual_project.tex
+pdflatex 2021ch70455_siddhant sudhakar dhirde_individual_project.tex   # run twice for cross-references
 ```
 
 ## Model Description
