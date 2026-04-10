@@ -8,9 +8,9 @@ This repository contains all materials for the individual complexity science pro
 ## Files
 | File | Description |
 |------|-------------|
-| `forest_fire_soc.py` | Python simulation (main code) |
-| `soc_forest_fire.tex` | LaTeX source for the journal-style report |
-| `soc_forest_fire.pdf` | Compiled PDF report |
+| `code.py` | Python simulation (main code) |
+| `2021ch70455_siddhant sudhakar dhirde_individual_project.tex` | LaTeX source for the journal-style report |
+| `2021ch70455_siddhant sudhakar dhirde_individual_project.pdf` | Compiled PDF report |
 | `figures/` | All generated plots (auto-created by simulation) |
 
 ## Requirements
