@@ -50,6 +50,3 @@ The Drossel–Schwabl model (1992) is a stochastic cellular automaton on an L×L
 | 4 (von Neumann) | 0.40 | 2,376 |
 | 8 (Moore) | 0.34 | 2,750 |
 
-## Acknowledgements
-AI assistance (Claude, Anthropic) used for code structuring and manuscript drafting.
-All prompts are listed in Section 7 of the report.
