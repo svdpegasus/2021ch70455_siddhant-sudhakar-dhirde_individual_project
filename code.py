@@ -4,8 +4,8 @@ Self-Organized Criticality in Forest Fire Systems
 Simulation of the Drossel-Schwabl Forest Fire Model (1992)
 demonstrating Self-Organized Criticality (SOC).
 
-Author: [Student Name]
-Date: April 2026
+Author: Siddhant Sudhakar Dhirde
+Date: 10th April 2026
 
 Rules:
   1. A burning tree becomes empty (ash) in the next step.
